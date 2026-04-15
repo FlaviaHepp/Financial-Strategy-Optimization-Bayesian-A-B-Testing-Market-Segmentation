@@ -1,6 +1,6 @@
-# Financial Market A/B Testing & Machine Learning
+# 📈Financial Market A/B Testing & Machine Learning
 
-## Project Overview
+## 🚀Project Overview
 
 This project implements an advanced analytical framework for evaluating financial market strategies using a combination of:
 
@@ -12,7 +12,7 @@ The objective is to analyze and optimize trading strategies by comparing control
 
 ---
 
-## Key Features
+## 🧠Key Features
 
 ### 🔹 Market Segmentation
 
@@ -42,7 +42,7 @@ The objective is to analyze and optimize trading strategies by comparing control
 
 ---
 
-## Dataset Description
+## 💾Dataset Description
 
 The dataset simulates financial market conditions and includes:
 
@@ -58,7 +58,7 @@ The dataset simulates financial market conditions and includes:
 
 ---
 
-## Project Workflow
+## 🧪Project Workflow
 
 ```text
 Data Generation / Load
@@ -74,7 +74,7 @@ Visualization & Insights
 
 ---
 
-## Technologies Used
+## 💻Technologies Used
 
 * Python
 * Pandas
@@ -87,7 +87,7 @@ Visualization & Insights
 
 ---
 
-## How to Run
+## 💡How to Run
 
 1. Install dependencies:
 
@@ -103,7 +103,7 @@ python mercadofinanciero_abtesting.py
 
 ---
 
-## Output
+## 📊Output
 
 * Market segments added to dataset
 * Classification report (precision, recall, f1-score)
@@ -113,7 +113,7 @@ python mercadofinanciero_abtesting.py
 
 ---
 
-## Project Structure
+## 📁Project Structure
 
 text
 project/
@@ -125,7 +125,7 @@ project/
 
 ---
 
-## Use Cases
+## ⚡Use Cases
 
 * Evaluate trading strategies
 * Financial experimentation (A/B testing)
@@ -135,7 +135,7 @@ project/
 
 ---
 
-## Future Improvements
+## 🔮Future Improvements
 
 * Add real financial datasets
 * Deploy as API for real-time predictions
@@ -145,6 +145,6 @@ project/
 
 ---
 
-## Author
+## 👩‍💻Author
 Flavia Hepp
 Advanced Data Science project combining Machine Learning and Bayesian Statistics applied to financial markets.

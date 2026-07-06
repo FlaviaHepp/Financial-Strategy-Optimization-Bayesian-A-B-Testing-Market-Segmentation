@@ -147,4 +147,5 @@ project/
 
 ## 👩‍💻Author
 Flavia Hepp
+
 Advanced Data Science project combining Machine Learning and Bayesian Statistics applied to financial markets.
